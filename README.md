@@ -8,8 +8,12 @@ API used - [Forismatic](https://forismatic.com/en/api/)
 
 Screenshots below :
 
-![Quote](/screenshots/screenshot-1.jpg)
-
-![Loading animation](/screenshots/screenshot-2.jpg)
-
-![Tweet quote](/screenshots/screenshot-3.jpg)
+<p align="center">
+<img src="/screenshots/screenshot-1.jpg" alt="quote">
+</p>
+<p align="center">
+<img src="/screenshots/screenshot-2.jpg" alt="loading animation">
+</p>
+<p align="center">
+<img src="/screenshots/screenshot-3.jpg" alt="tweet quote">
+</p>
